@@ -12,8 +12,8 @@ import (
 
 const port = 8080
 
-// @title Test Go API
-// @version 1.0
+//	@title		Test Go API
+//	@version	1.0
 func main() {
 	log.Printf("Server has started on port: %d\n", port)
 
